@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**As a**  
-**I need**
-**So that**
+**As a** 
+**I need** 
+**So that** 
       
 ### Details and Assumptions
-       *  
+       * 
 
 ### Acceptance Criteria
-       *
-       *
+       * 
+       * 
        *
